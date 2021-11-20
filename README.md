@@ -36,13 +36,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-When not coding:
-Lifting 🏋🏻‍♂️
-Playing 🎸
-Reading 📚
-Exploring 🥾
-Sleeping 💤
 -->
 
 
@@ -77,3 +70,15 @@ Languages and Tools:
 Connect with me at:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-jadhav-7809b7196" height="30" width="40" style="max-width: 100%;">LinkedIn<br>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;">Twitter
+
+When not coding:<br>
+Lifting 🏋🏻‍♂️<br>
+Playing 	&#127925;<br>
+Reading 📚<br>
+Exploring 🥾<br>
+Sleeping 💤<br>
+
+
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
