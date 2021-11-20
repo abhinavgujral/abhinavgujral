@@ -44,7 +44,7 @@ Reading 📚
 Exploring 🥾
 Sleeping 💤
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavgujral&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 Languages and Tools:
@@ -64,7 +64,7 @@ Languages and Tools:
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
-
+<img src="https://github-readme-stats.vercel.app/api?username=abhinavgujral&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
