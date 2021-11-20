@@ -51,19 +51,21 @@ Languages and Tools:
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img  alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
 </p>
 
 
+<h2>Stats</h2>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavgujral&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavgujral&theme=tokyonight"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&theme=xcode&hide_langs_below=1"> -->
 <img src="https://activity-graph.herokuapp.com/graph?username=abhinavgujral&theme=xcode">
+<img src="https://github-readme-stats.vercel.app/api?username=abhinavgujral&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-profile-trophy.vercel.app/?username=abhinavgujral&theme=monokai&row=1&column=4">
 
 
