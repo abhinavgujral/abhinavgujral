@@ -73,18 +73,18 @@ Here are some ideas to get you started:
 <img src="https://activity-graph.herokuapp.com/graph?username=abhinavgujral&theme=xcode">
 <img src="https://github-readme-stats.vercel.app/api?username=abhinavgujral&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-profile-trophy.vercel.app/?username=abhinavgujral&theme=monokai&row=1&column=4">
-
-
-Connect with me at:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
-<a href="https://www.linkedin.com/in/abhinavgujral/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-jadhav-7809b7196" height="30" width="40" style="max-width: 100%; "></a> &nbsp; 
-<a href="https://twitter.com/abhinav_gujral?t=5_RVZm3yH_ut_3XMkiq08Q&s=09"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"></a>
-
-<h2>When not coding:</h2> <br>
+<h3>When not coding:</h3>
 Lifting 🏋🏻‍♂️<br>
 Playing 	&#127925;<br>
 Reading 📚<br>
 Exploring 🥾<br>
 Sleeping 💤<br>
+
+<h2>Connect with me at:</h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
+<a href="https://www.linkedin.com/in/abhinavgujral/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-jadhav-7809b7196" height="30" width="40" style="max-width: 100%; "></a> &nbsp; 
+<a href="https://twitter.com/abhinav_gujral?t=5_RVZm3yH_ut_3XMkiq08Q&s=09"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"></a>
+
+
 
 
 <code>
