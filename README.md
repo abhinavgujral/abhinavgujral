@@ -76,8 +76,8 @@ Here are some ideas to get you started:
 
 
 Connect with me at:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
-<a href="https://www.linkedin.com/in/abhinavgujral/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-jadhav-7809b7196" height="30" width="40" style="max-width: 100%;">LinkedIn</a><br>
-<a href="https://twitter.com/abhinav_gujral?t=5_RVZm3yH_ut_3XMkiq08Q&s=09"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;">Twitter</a>
+<a href="https://www.linkedin.com/in/abhinavgujral/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-jadhav-7809b7196" height="30" width="40" style="max-width: 100%; margin-bottom:10px;"></a><br>
+<a href="https://twitter.com/abhinav_gujral?t=5_RVZm3yH_ut_3XMkiq08Q&s=09"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%; margin:8px;"></a>
 
 When not coding:<br>
 Lifting 🏋🏻‍♂️<br>
