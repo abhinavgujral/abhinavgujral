@@ -13,12 +13,12 @@ and always looking to find patterns of which are helful in learning Web Devloper
 <ul>
   <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
-  <li>📰 My First Web Page_________________________________</li>
+<!--   <li>📰 My First Web Page_________________________________</li> -->
 </ul>
 👯 I’m looking to collaborate on ..
 <ul>
   <li>Open source Projects</li>
-  <li>ull-stack Development</li>
+  <li>Full-stack Development</li>
   <li>Backend Development</li>
 </ul>
 
