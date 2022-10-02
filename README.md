@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <p float="left" margin:"2%;" > 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
 </p>
 
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<!-- <img src="https://cam.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
 
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavgujral&theme=tokyonight"> -->
