@@ -8,7 +8,7 @@ a passionate self-learner  and a Full Stack Web Devloper,
 and always looking to find patterns of which are helful in learning Web Devloper
  
 
-
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ded6d20bac903ca800f5e5753b42deea751589b0f8d2b9fd198e2998650fe0c8/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d4176696e617368373234392e4176696e61736837323439"><img src="https://camo.githubusercontent.com/ded6d20bac903ca800f5e5753b42deea751589b0f8d2b9fd198e2998650fe0c8/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d4176696e617368373234392e4176696e61736837323439" alt="visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=abhinavgujral" style="max-width: 100%;"></a></p>
  💬 About me ...<br>
 <ul>
   <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 
 <h2>Languages and Tools:</h2>
@@ -81,12 +81,13 @@ Exploring 🥾<br>
 Sleeping 💤<br>
 
 <h2>Connect with me at:</h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
-<a href="https://www.linkedin.com/in/abhinavgujral/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-jadhav-7809b7196" height="30" width="40" style="max-width: 100%; "></a> &nbsp; 
-<a href="https://twitter.com/abhinav_gujral?t=5_RVZm3yH_ut_3XMkiq08Q&s=09"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"></a>
+<p align="center" dir="auto">
 
+<a href="https://www.linkedin.com/in/abhinavgujral/" rel="nofollow">
+<img src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a> &nbsp; 
+<a href="https://twitter.com/abhinav_gujral?t=5_RVZm3yH_ut_3XMkiq08Q&s=09" rel="nofollow"><img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter logo" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:abhinavgujral33@gmail.com" title="Write me an email" rel="nofollow"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Icon" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 
+</p>
 
-
-<code>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
-</code>
