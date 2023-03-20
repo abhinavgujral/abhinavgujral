@@ -1,26 +1,106 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, </h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FFFFFF&amp;size=35&amp;lines=Hey!+It's+Abhinav+Gujral!;Backend+Developer...;" style="max-width: 100%;"></h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Abhinav+Gujral!;Learning+Web+Development...;" style="max-width: 100%;">
 
 
-Hello, I am a graduate from India.<br>
+
+ 💬 About me ...<br>
+ 
+ I am a graduate from India.<br>
 A passionate self-learner  and a Full Stack Web Devloper,<br>
 Always looking to find patterns of which are helful in learning Web Devloper
  
 
- 💬 About me ...<br>
-<ul>
-  <li>🌱🌱 I have completed  </li>
-<li>🔭 I’m</li>
-<!--   <li>📰 My First Web Page_________________________________</li> -->
-</ul>
-👯 I’m looking to collaborate on ..
-<ul>
- <li>Backend Development</li>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavgujral" alt="abhinavgujral" /></a> </p> -->
+
+- 🔭 I’m currently working on **Backend Development**
+
+- 🌱 I’m currently learning **Full-Stack Web Development**
+
+- 👯 I’m looking to collaborate on **....**
+  <ul>
+  <li>Backend Projects</li>
   <li>Open source Projects</li>
   <li>Full-stack Development</li>
   
 </ul>
+
+- 👨‍💻 All of my projects are available at [https://abhinavgujral.netlify.app/](https://abhinavgujral.netlify.app/)
+
+- 💬 Ask me about **SpringBoot, Java, System Design, Data Structure and Algorithm**
+
+- 📫 How to reach me **abhinavgujral33@gmail.com**
+
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+
+<div dir="auto">  
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+ 
+ </div>
+
+
+<h2>GitHub Stats</h2>
+
+<p float="left" margin:"2%;" > 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavgujral&layout=compact&theme=algolia" alt="abhinavgujral" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+</ul>
+👯 I’m looking to collaborate on ..
+
 
 
 <!--
@@ -42,33 +122,18 @@ Here are some ideas to get you started:
 
 
 
-<h2>Languages and Tools:</h2>
 
 
-<div dir="auto">  
-<img src="https://camo.githubusercontent.com/075657b384358f918d473ef7fbb24c213dbd1d43058ae2ac2134731d614ca870/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176612d6f726967696e616c2d776f72646d61726b2e737667" alt="Java" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/ef8a5aaa11f861e3692439d030c83a18d6d5ebc387d6e74ca4bba728aaeac7ad/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" alt="MySQL" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/f44cbbd0c8267e4ff36f919d833b0814e2de313739f958b2d8618cf4abe9f216/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f737072696e67696f2d69636f6e2e737667" alt="Spring Boot" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667" alt="Git" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/7a2b6137fa6818b1c85f86347a6b4a75ee52681d4a190c506df972e3c5459980/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667" alt="JavaScript" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS3" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" style="max-width: 100%;">
-</div>
-
-<p float="left" margin:"2%;" > 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
-</p>
 
 
-<h2>Stats</h2>
+
 
 
 
 <!-- <img src="https://cam.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavgujral&theme=tokyonight">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavgujral&theme=tokyonight"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&theme=xcode&hide_langs_below=1"> -->
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=abhinavgujral&theme=xcode"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhinavgujral&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
