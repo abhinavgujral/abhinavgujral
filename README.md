@@ -3,23 +3,23 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Abhinav+Gujral!;Learning+Web+Development...;" style="max-width: 100%;">
 
 
-Hello, I am a graduate from India.
-a passionate self-learner  and a Full Stack Web Devloper,
-and always looking to find patterns of which are helful in learning Web Devloper
+Hello, I am a graduate from India.<br>
+A passionate self-learner  and a Full Stack Web Devloper,<br>
+Always looking to find patterns of which are helful in learning Web Devloper
  
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ded6d20bac903ca800f5e5753b42deea751589b0f8d2b9fd198e2998650fe0c8/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d4176696e617368373234392e4176696e61736837323439"><img src="https://camo.githubusercontent.com/ded6d20bac903ca800f5e5753b42deea751589b0f8d2b9fd198e2998650fe0c8/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d4176696e617368373234392e4176696e61736837323439" alt="visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=abhinavgujral" style="max-width: 100%;"></a></p>
  💬 About me ...<br>
 <ul>
-  <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
-<li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
+  <li>🌱🌱 I have completed  </li>
+<li>🔭 I’m</li>
 <!--   <li>📰 My First Web Page_________________________________</li> -->
 </ul>
 👯 I’m looking to collaborate on ..
 <ul>
+ <li>Backend Development</li>
   <li>Open source Projects</li>
   <li>Full-stack Development</li>
-  <li>Backend Development</li>
+  
 </ul>
 
 
