@@ -51,12 +51,24 @@ A passionate self-learner <br>
 
 <h2><i>GitHub Stats &nbsp; </i><img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35" style="max-width: 100%;">
 </h2>
-<p float="left" margin:"2%;" > 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
+<p align="center" dir="auto">
+<a href="https://github.com/abhinavgujral">
+  <img height="160em" src="https://camo.githubusercontent.com/e44ff973ee02dfcb93efe3cca7674012475352caecab9ec4b42fa29ef48e09d0/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d696379666c616d6532312673686f775f69636f6e733d74727565267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d74727565266c6f63616c653d656e" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhinavgujral&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=false&amp;count_private=true&amp;locale=en" style="max-width: 100%;">&nbsp;  <img height="160em" src="https://camo.githubusercontent.com/7e3750038c6fac70b52c8683f4d82f72624e8bcd421df9e3c6fbe4a2d9a400dd/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d696379666c616d653231266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhinavgujral&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;">&nbsp;<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia"  style="max-width: 100%;">
+ 
+ </a>
 
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavgujral&layout=compact&theme=algolia" alt="abhinavgujral" /></p>
+ 
+
+</p>
+
+
+
+<p  margin:"2%;" > 
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavgujral&layout=compact&theme=algolia" alt="abhinavgujral" /></p>
 
 <p align ="center"> <img   src="https://github-profile-trophy.vercel.app/?username=abhinavgujral&theme=monokai&row=1&column=4"></p>
 
