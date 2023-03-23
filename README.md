@@ -69,7 +69,7 @@ Reading 📚<br>
 Exploring 🥾<br>
 Sleeping 💤<br>
 
-<h2>Connect with me at:</h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
+<h2><i>Connect with me at:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"></i></h2><br>
 <p align="center" dir="auto">
 
 <a href="https://www.linkedin.com/in/abhinavgujral/" rel="nofollow">
